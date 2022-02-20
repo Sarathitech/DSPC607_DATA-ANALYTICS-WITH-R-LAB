@@ -1,0 +1,2 @@
+# DSPC607_DATA-ANALYSIS-WITH-R-LAB
+COURSE OBJECTIVES:  Gain a thorough understanding of statistical reasoning and sampling theory and Employ  hypothesis testing to draw inferences from your data.  Learn Bayesian methods for estimating parameters, and Train regression, classification,  and time series models.  Handle missing data gracefully using multiple imputation; Identify and manage  problematic data points.  Learn how to scale your analyses to larger data with Rcpp, data.table, dplyr, and  parallelization
