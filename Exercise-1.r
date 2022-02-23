@@ -1,4 +1,4 @@
-#Learning R Programming Basic Commends
+#Learning R Programming Basic Commands
 
 1+1		       #Addition
 10-2		     #Subtraction
