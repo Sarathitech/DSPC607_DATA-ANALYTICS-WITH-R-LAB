@@ -117,4 +117,19 @@ BR[,,2,]
 BR[3:2,4,,]
 BR[2,,1,]
 
-
+rows <- as.integer(readline("Enter the number of rows: ")) 
+columns <- as.integer(readline("Enter the number of columns: "))
+total<-rows*columns
+cat("Total number elements",total)
+i <- 1
+j <- 0
+while(j<=total){
+ cat("Element",i)
+ r<-as.integer(readline("Waiting for input: ")) 
+ x <- list()
+ append(x,r)
+ i= i+1
+ j = j+1
+}
+mat1 <- matrix(data =x ,nrow=rows,ncol = columns, byrow = T ) 
+mat1
