@@ -98,6 +98,6 @@ diag(A)
 
 cat("Transpose of A",t(A))
 
-cat("Inverse of A",solve(A))
+cat("Inverse of A" ,solve(A))
 
                                                                         
